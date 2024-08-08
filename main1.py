@@ -1,5 +1,5 @@
 # Developed by karan
-
+# First install cv2
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 
